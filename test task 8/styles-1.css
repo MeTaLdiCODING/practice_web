@@ -1,0 +1,65 @@
+body{
+	text-align:center;
+}
+table{
+	width: 1200px;
+	height: 1200px;
+	margin: 0px auto;
+	border:  1px solid black ;
+	border-collapse: collapse;
+	text-align: center;
+}
+td{
+	border:  1px solid black ;
+
+}
+td:not([colspan]){
+	width: 300px;
+}
+
+.s1 td{
+	height: 300px;
+}
+.s2 td{
+	height: 60px;
+}
+.s3 td{
+	height: 504px;
+}
+.s4{
+	height:50px;
+}
+
+.b7{
+	width:900px;
+}
+.b1{
+	background: #DC143C;
+}
+.b2{
+	background: #FF0000;
+}
+.b3{
+	background: #FF1493;
+}
+.b4{
+	background: #FFC0CB;
+}
+.b5{
+	background: #FF4500;
+}
+.b6{
+	background:#FFD700;
+}
+.b6-1{
+	background:#FFD700;
+}
+.b7{
+	background: #FFC0CB;
+}
+.b8{
+	background: #FF1493;
+}
+.b9{
+	background:#FF0000;
+}
