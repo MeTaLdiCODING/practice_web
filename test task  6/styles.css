@@ -1,0 +1,161 @@
+body{
+	background-image: url('https://media1.tenor.com/m/6w9bICXeB-kAAAAd/rick-morty.gif');
+}
+.all{
+width: 1200px;
+height: 2400px;
+text-align: center;
+margin: 0px auto;
+}
+.header {
+width: 1200px;
+height: 350px;
+background: #D3D3D3;
+}
+
+.logo {
+width: 1200px;
+height: 250px;
+}
+
+.nav {
+width: 1200px;
+height: 100px;
+background: #006400;
+}
+
+.main {
+width: 1200px;
+height: 2000px;
+background: #A9A9A9;
+text-align: center;
+}
+
+
+.footer {
+width: 1200px;
+height: 50px;
+background: #808080;
+}
+.blok1{
+	height:400px;
+	width:300px;
+	float:left;
+	background: black;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.blok1 img{
+	height:380px;
+	width:280px;
+}
+.blok2{
+	height:400px;
+	width:300px;
+	float:left;
+	background: #00FF00;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.blok3{
+	height:400px;
+	width:300px;
+	float: left;
+	background: black;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.blok4{
+	height:400px;
+	width:300px;
+	float: left;
+	background: #00FF00;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.block4 img{
+	height:380px;
+	width:280px;
+}
+.blok5{
+	height:400px;
+	width:300px;
+	float: left;
+	background: #00FF00;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.blok6{
+	height:400px;
+	width:300px;
+	float: left;
+	background: black;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.blok6 video{
+	height:380px;
+	width:280px;
+}
+.blok7{
+	height:400px;
+	width:300px;
+	float: left;
+	background: #00FF00;
+	margin-left: auto;
+	margin-right: auto;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.blok8{
+	height:400px;
+	width:300px;
+	float: left;
+	background: black;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.blok9{
+	height:400px;
+	width:300px;
+	float: left;
+	background: black;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.blok10{
+	height:400px;
+	width:300px;
+	float: right;
+	background: #00FF00;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.blok11{
+	height:400px;
+	width:600px;
+	float: left;
+	background: gray;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+iframe {
+    width: 580px;
+	height: 380px;
+}
+
