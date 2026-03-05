@@ -1,0 +1,103 @@
+.site {
+width: 1000px;
+height: 1000px;
+margin: auto;
+}
+
+.header {
+width: 1000px;
+height: 250px;
+background: #D3D3D3;
+}
+
+.logo {
+width: 1000px;
+height: 220px;
+}
+
+.navigation {
+width: 1000px;
+height: 30px;
+background: #C0C0C0;
+}
+
+.main {
+width: 1000px;
+height: 1000px;
+background: #A9A9A9;
+text-align: center;
+}
+
+.footer {
+width: 1000px;
+height: 58px;
+background: #808080;
+}
+.main h1{
+	text-align: center;
+}
+.main h2{
+	text-align: center;
+}
+.main p{
+	text-align: justify;
+	text-indent: 25px;
+}
+.main a{
+	text-decoration: none;
+	color: black;
+}
+.main img{
+	height: 100px;
+	width:100px;
+}
+marquee{
+	background: #FFFAFA;
+}
+.d1 a:link {
+color:#4B0082;
+}
+
+.d2 a:visited {
+	color:#FA8072;
+}
+
+.d3 a:hover {
+	color:#8B0000;
+}
+
+.d4 a:active {
+	color:#B22222;
+}
+.d5 a:focus  {
+	color:#FF00FF;
+}
+.d6 a:not(p)  {
+	color:#FF00FF;
+	background; black;
+}
+
+
+.d7 p::after {
+	content: " пост"
+	
+}
+
+.d8 p::before {
+	content: "пред "
+}
+
+.d9 p::selection {
+	color: black;
+background:#B22222;
+}
+
+.d10 p::first-letter {
+	color: blue;
+	
+}
+
+.d11 p::first-line  {
+	color:red;
+}
+
